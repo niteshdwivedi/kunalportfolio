@@ -1,0 +1,24 @@
+Kunal Rajput
+CSE Student | Big Data Analytics Enthusiast | Aspiring Software Developer
+
+Education
+- B.Tech in Computer Science with Big Data Analytics, Lovely Professional University, Aug 2023 - Present
+- Higher Secondary, Shri Ram High School, Morena, M.P., India, CGPA 7.4
+- Secondary, Toppers Public School, Morena, W.B., India, CGPA 7.5
+
+Skills
+- C, C++, Java, HTML, CSS, JavaScript
+- Big Data Analytics
+- Power BI
+- Problem Solving
+- Web Development
+
+Projects
+- Portfolio Website
+- Social Media Website
+- Data Analysis Report
+- NCC Website
+
+Contact
+Email: hello@kunalrajput.dev
+Location: Phagwara, Punjab, India
